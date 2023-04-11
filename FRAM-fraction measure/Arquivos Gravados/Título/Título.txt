@@ -1,0 +1,3 @@
+																									      |			Ótico			   |	|      Pressão	    |
+Data		Hora	Rep.	JW	JK	JG	|		Método	Misto		      |	|		Método	Free -	Scale	      |	|		Método	Merge		      |	L.L	+-	L.w	+-	L.k 	+- | 	|L.L	L.w	L.k |	SHD-01	SHD-02	P_bar	T_W	T_K	T_Atm	JG_lam	P_lam	T_lam	M_manual		
+				m/s	m/s	m/s	Vazio	+-	Hw	+-	Hk	+-	Vazio	+-	Hw	+-	Hk	+-	Vazio	+-	Hw	+-	Hk	+-	mm		mm		mm		 mm	mm	mm 	mmH2O	kPa	kPa	°C	°C	°C	m/s	kPa	°C	kg/h
