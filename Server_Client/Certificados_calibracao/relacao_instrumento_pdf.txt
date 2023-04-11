@@ -1,0 +1,293 @@
+[SKM-PA-BAR]
+PDF = "SKM-PI-BAR (Zurich) sn-63630718.pdf"
+
+[SKM-PA-TQ]
+PDF = "SKM-PI-TQ sn-59203.pdf"
+
+[SKM-TI-TQ]
+PDF = "SKM-PI-TQ sn-59203.pdf"
+
+[SKM-PA-LAM]
+PDF = "SMA-PI-LAM sn-59199.pdf"
+
+[SKM-TI-LAM]
+PDF = "Aferição do medidor magnético SKM-FI-WF .pdf"
+
+[SKM-PD-LAM]
+PDF = "APB PI 002 - SN 79462.pdf"
+
+[SKM-TI-WF]
+PDF = "APB PI 003 - SN 79464.pdf"
+
+[SKM-FIM-WF]
+PDF = "Não Adicionado"
+
+[SKI-PD-ST]
+PDF = "Não Adicionado"
+
+[SIT-PI-002]
+PDF = "Não Adicionado"
+
+[SIT-PI-MS1]
+PDF = "Não Adicionado"
+
+[SIT-PI-MS2]
+PDF = "Não Adicionado"
+
+[SKM-TI-KF]
+PDF = "Não Adicionado"
+
+[SPW-PD-P]
+PDF = "Não Adicionado"
+
+[SPK-PD-P]
+PDF = "Não Adicionado"
+
+[X32 16 ]
+PDF = "Não Adicionado"
+
+[X32 17]
+PDF = "Não Adicionado"
+
+[X32 18]
+PDF = "Não Adicionado"
+
+[X32 19]
+PDF = "Não Adicionado"
+
+[X32 20]
+PDF = "Não Adicionado"
+
+[X32 21]
+PDF = "Não Adicionado"
+
+[X32 22]
+PDF = "Não Adicionado"
+
+[X32 23]
+PDF = "Não Adicionado"
+
+[X32 24]
+PDF = "Não Adicionado"
+
+[RESERVA 1 ANALOGICO]
+PDF = "Não Adicionado"
+
+[RESERVA 2 ANALOGICO]
+PDF = "Não Adicionado"
+
+[SKM-PC-TQ]
+PDF = "Não Adicionado"
+
+[SKM-FC-AR]
+PDF = "Não Adicionado"
+
+[SKM-FC-WF]
+PDF = "Não Adicionado"
+
+[SKM-FC-KF]
+PDF = "Não Adicionado"
+
+[X33 5]
+PDF = "Não Adicionado"
+
+[X33 6]
+PDF = "Não Adicionado"
+
+[X33 7]
+PDF = "Não Adicionado"
+
+[X33 8]
+PDF = "Não Adicionado"
+
+[X33 9]
+PDF = "Não Adicionado"
+
+[X33 10]
+PDF = "Não Adicionado"
+
+[X33 11]
+PDF = "Não Adicionado"
+
+[X33 12]
+PDF = "Não Adicionado"
+
+[X33 13]
+PDF = "Não Adicionado"
+
+[X33 14]
+PDF = "Não Adicionado"
+
+[SIT-PI-001]
+PDF = "Não Adicionado"
+
+[SPK-RD-ST]
+PDF = "Não Adicionado"
+
+[SPW-RD-ST]
+PDF = "Não Adicionado"
+
+[SPK-RD-VEL]
+PDF = "Não Adicionado"
+
+[SPW-RD-VEL]
+PDF = "Não Adicionado"
+
+[SPK-RD-IA]
+PDF = "Não Adicionado"
+
+[SPW-RD-IA]
+PDF = "Não Adicionado"
+
+[SPK-RD-TU]
+PDF = "Não Adicionado"
+
+[SPW-RD-TU]
+PDF = "Não Adicionado"
+
+[SKM-TI-COR-KF]
+PDF = "Não Adicionado"
+
+[SKM-DEN-COR-KF]
+PDF = "Não Adicionado"
+
+[SKM-FIC-COR-KF]
+PDF = "Não Adicionado"
+
+[SKM-TI-COR-AR]
+PDF = "Não Adicionado"
+
+[SKM-DEN-COR-AR]
+PDF = "Não Adicionado"
+
+[SPK-RD-CRT]
+PDF = "Não Adicionado"
+
+[SPW-RD-CRT]
+PDF = "Não Adicionado"
+
+[PID-PC-TQ-SP]
+PDF = "Não Adicionado"
+
+[PID-FC-AR-SP]
+PDF = "Não Adicionado"
+
+[PID-FC-WF-SP]
+PDF = "Não Adicionado"
+
+[PID-FC-KF-SP]
+PDF = "Não Adicionado"
+
+[PID-INC-WF-SP]
+PDF = "Não Adicionado"
+
+[PID-INC-KF-SP]
+PDF = "Não Adicionado"
+
+[SPK-WR-VEL]
+PDF = "Não Adicionado"
+
+[SPW-WR-VEL]
+PDF = "Não Adicionado"
+
+[SKM-FIC-COR-AR]
+PDF = "Não Adicionado"
+
+[SKM-FIC-COR-AR-MAX]
+PDF = "Não Adicionado"
+
+[SKM-FIC-COR-AR-MIN]
+PDF = "Não Adicionado"
+
+[SKM-FIC-COR-KF-MAX]
+PDF = "Não Adicionado"
+
+[SKM-FIC-COR-KF-MIN]
+PDF = "Não Adicionado"
+
+[PID-PC-TQ-GP]
+PDF = "Não Adicionado"
+
+[PID-PC-TQ-GI]
+PDF = "Não Adicionado"
+
+[PID-PC-TQ-GD]
+PDF = "Não Adicionado"
+
+[PID-FC-AR-GP]
+PDF = "Não Adicionado"
+
+[PID-FC-AR-GI]
+PDF = "Não Adicionado"
+
+[PID-FC-AR-GD]
+PDF = "Não Adicionado"
+
+[PID-FC-WF-GP]
+PDF = "Não Adicionado"
+
+[PID-FC-WF-GI]
+PDF = "Não Adicionado"
+
+[PID-FC-WF-GD]
+PDF = "Não Adicionado"
+
+[PID-FC-KF-GP]
+PDF = "Não Adicionado"
+
+[PID-FC-KF-GI]
+PDF = "Não Adicionado"
+
+[PID-FC-KF-GD]
+PDF = "Não Adicionado"
+
+[PID-INV-WF-GP]
+PDF = "Não Adicionado"
+
+[PID-INV-WF-GI]
+PDF = "Não Adicionado"
+
+[PID-INV-WF-GD]
+PDF = "Não Adicionado"
+
+[PID-INV-KF-GP]
+PDF = "Não Adicionado"
+
+[PID-INV-KF-GI]
+PDF = "Não Adicionado"
+
+[PID-INV-KF-GD]
+PDF = "Não Adicionado"
+
+[com_pc_analog]
+PDF = "Não Adicionado"
+
+[SKS-LC-K]
+PDF = "Não Adicionado"
+
+[SKS-LC-W]
+PDF = "Não Adicionado"
+
+[SHD-TI-AMB]
+PDF = "Não Adicionado"
+
+[X32-4]
+PDF = "Não Adicionado"
+
+[SHD-PI-01]
+PDF = "Não Adicionado"
+
+[SHD-PI-02]
+PDF = "Não Adicionado"
+
+[SIT-PI-MS3]
+PDF = "Não Adicionado"
+
+[SIT-PI-03]
+PDF = "Não Adicionado"
+
+[GD-ST-ES]
+PDF = "Não Adicionado"
+
+[X33-2]
+PDF = "Não Adicionado"

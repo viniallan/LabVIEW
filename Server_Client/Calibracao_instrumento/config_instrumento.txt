@@ -1,0 +1,342 @@
+[SKM-PA-BAR]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = 20,000000    
+Maximo = 100,000000    
+
+[SKM-PA-TQ]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = 20,000000    
+Maximo = 50,000000    
+
+[SKM-TI-TQ]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = 50,000000    
+Maximo = 1000,000000    
+
+[SKM-PA-LAM]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = 20,000000    
+Maximo = 10000,000000    
+
+[SKM-TI-LAM]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-PD-LAM]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-TI-WF]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-FIM-WF]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SIT-PI-001]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKI-PD-ST]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SIT-PI-MS1]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SIT-PI-MS2]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-TI-KF]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPW-PD-P]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPK-PD-P]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 16 ]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 17]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 18]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 19]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 20]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 21]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 22]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 23]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32 24]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPK-RD-ST]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPW-RD-ST]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPK-RD-VEL]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPW-RD-VEL]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPK-RD-IA]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPW-RD-IA]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPK-RD-TU]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPW-RD-TU]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-TI-COR-KF]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-DEN-COR-KF]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-FIC-COR-KF]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-TI-COR-AR]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-DEN-COR-AR]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPK-RD-CRT]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SPW-RD-CRT]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKM-FIC-COR-AR]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[com_pc_analog]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SKS-LC-K]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = 0,000000    
+Maximo = 100,000000    
+
+[SKS-LC-W]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = 0,000000    
+Maximo = 100,000000    
+
+[SHD-TI-AMB]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[X32-4]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SHD-PI-01]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SHD-PI-02]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SIT-PI-MS3]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    
+
+[SIT-PI-03]
+Fabricante = "Não Adicionado"
+Modelo = "Não Adicionado"
+Numero de Serie = "Não Adicionado"
+Minimo = NaN    
+Maximo = NaN    

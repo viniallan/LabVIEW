@@ -1,0 +1,314 @@
+[SPK-CV-001]
+Prioridade? = FALSE    
+
+[SPK-CV-002]
+Prioridade? = FALSE    
+
+[SPK-CV-003]
+Prioridade? = FALSE    
+
+[SPK-CV-004]
+Prioridade? = FALSE    
+
+[SPK-CV-005]
+Prioridade? = FALSE    
+
+[SPK-CV-006]
+Prioridade? = FALSE    
+
+[SPK-CV-007]
+Prioridade? = FALSE    
+
+[SPK-CV-008]
+Prioridade? = FALSE    
+
+[SPW-CV-001]
+Prioridade? = TRUE    
+
+[SPW-CV-002]
+Prioridade? = FALSE    
+
+[SPW-CV-003]
+Prioridade? = FALSE    
+
+[SPW-CV-004]
+Prioridade? = FALSE    
+
+[SPW-CV-005]
+Prioridade? = TRUE    
+
+[SPW-CV-006]
+Prioridade? = TRUE    
+
+[SPW-CV-007]
+Prioridade? = TRUE    
+
+[SPW-CV-008]
+Prioridade? = TRUE    
+
+[SKM-CV-LAM]
+Prioridade? = FALSE    
+
+[SKM-CV-COR]
+Prioridade? = FALSE    
+
+[SKM-CV-JMP]
+Prioridade? = FALSE    
+
+[SKI-CV-AR]
+Prioridade? = FALSE    
+
+[SKI-CV-KF-ST]
+Prioridade? = FALSE    
+
+[SKI-CV-KF-BY1]
+Prioridade? = FALSE    
+
+[SKI-CV-WF-ST]
+Prioridade? = FALSE    
+
+[SKI-CV-WF-BY1]
+Prioridade? = FALSE    
+
+[SKI-CV-ST]
+Prioridade? = FALSE    
+
+[SKI-CV-BY2]
+Prioridade? = FALSE    
+
+[X31-27]
+Prioridade? = FALSE    
+
+[X31-28]
+Prioridade? = FALSE    
+
+[X31-29]
+Prioridade? = FALSE    
+
+[X31-30]
+Prioridade? = FALSE    
+
+[X31-31]
+Prioridade? = FALSE    
+
+[X31-32]
+Prioridade? = FALSE    
+
+[PID-PC-TQ-ON]
+Prioridade? = FALSE    
+
+[PID-FC-AR-ON]
+Prioridade? = FALSE    
+
+[PID-WF-ON]
+Prioridade? = FALSE    
+
+[PID-KF-ON]
+Prioridade? = FALSE    
+
+[PID-SA-WF-INV]
+Prioridade? = FALSE    
+
+[PID-SA-KF-INV]
+Prioridade? = FALSE    
+
+[PID-SA-AR-COR]
+Prioridade? = FALSE    
+
+[SPK-WR-ON]
+Prioridade? = FALSE    
+
+[SPW-WR-ON]
+Prioridade? = FALSE    
+
+[SPK-WR-OFF]
+Prioridade? = FALSE    
+
+[SPW-WR-OFF]
+Prioridade? = FALSE    
+
+[SKM-PC-TQ]
+Prioridade? = FALSE    
+
+[SKM-FC-AR]
+Prioridade? = FALSE    
+
+[SKM-FC-WF]
+Prioridade? = FALSE    
+
+[SKM-FC-KF]
+Prioridade? = FALSE    
+
+[X33 5]
+Prioridade? = FALSE    
+
+[X33 6]
+Prioridade? = FALSE    
+
+[X33 7]
+Prioridade? = FALSE    
+
+[X33 8]
+Prioridade? = FALSE    
+
+[X33 9]
+Prioridade? = FALSE    
+
+[X33 10]
+Prioridade? = FALSE    
+
+[X33 11]
+Prioridade? = FALSE    
+
+[X33 12]
+Prioridade? = FALSE    
+
+[X33 13]
+Prioridade? = FALSE    
+
+[X33 14]
+Prioridade? = FALSE    
+
+[PID-PC-TQ-SP]
+Prioridade? = FALSE    
+
+[PID-FC-AR-SP]
+Prioridade? = FALSE    
+
+[PID-FC-WF-SP]
+Prioridade? = FALSE    
+
+[PID-FC-KF-SP]
+Prioridade? = FALSE    
+
+[PID-INC-WF-SP]
+Prioridade? = FALSE    
+
+[PID-INC-KF-SP]
+Prioridade? = FALSE    
+
+[SPK-WR-VEL]
+Prioridade? = FALSE    
+
+[SPW-WR-VEL]
+Prioridade? = FALSE    
+
+[SKM-FIC-COR-AR-MAX]
+Prioridade? = FALSE    
+
+[SKM-FIC-COR-AR-MIN]
+Prioridade? = FALSE    
+
+[SKM-FIC-COR-KF-MAX]
+Prioridade? = FALSE    
+
+[SKM-FIC-COR-KF-MIN]
+Prioridade? = FALSE    
+
+[PID-PC-TQ-GP]
+Prioridade? = FALSE    
+
+[PID-PC-TQ-GI]
+Prioridade? = FALSE    
+
+[PID-PC-TQ-GD]
+Prioridade? = FALSE    
+
+[PID-FC-AR-GP]
+Prioridade? = FALSE    
+
+[PID-FC-AR-GI]
+Prioridade? = FALSE    
+
+[PID-FC-AR-GD]
+Prioridade? = FALSE    
+
+[PID-FC-WF-GP]
+Prioridade? = FALSE    
+
+[PID-FC-WF-GI]
+Prioridade? = FALSE    
+
+[PID-FC-WF-GD]
+Prioridade? = FALSE    
+
+[PID-FC-KF-GP]
+Prioridade? = FALSE    
+
+[PID-FC-KF-GI]
+Prioridade? = FALSE    
+
+[PID-FC-KF-GD]
+Prioridade? = FALSE    
+
+[PID-INV-WF-GP]
+Prioridade? = FALSE    
+
+[PID-INV-WF-GI]
+Prioridade? = FALSE    
+
+[PID-INV-WF-GD]
+Prioridade? = FALSE    
+
+[PID-INV-KF-GP]
+Prioridade? = FALSE    
+
+[PID-INV-KF-GI]
+Prioridade? = FALSE    
+
+[PID-INV-KF-GD]
+Prioridade? = FALSE    
+
+[SKS-CV-001]
+Prioridade? = FALSE    
+
+[SKS-CV-002]
+Prioridade? = FALSE    
+
+[SKS-CV-003]
+Prioridade? = FALSE    
+
+[SKS-CV-004]
+Prioridade? = FALSE    
+
+[SKS-CV-005]
+Prioridade? = FALSE    
+
+[SKS-CV-006]
+Prioridade? = FALSE    
+
+[SHD-CV-001]
+Prioridade? = FALSE    
+
+[SHD-CV-002]
+Prioridade? = FALSE    
+
+[SHD-ON-OFF]
+Prioridade? = FALSE    
+
+[X31-10]
+Prioridade? = FALSE    
+
+[X31-11]
+Prioridade? = FALSE    
+
+[X31-12]
+Prioridade? = FALSE    
+
+[X31-13]
+Prioridade? = FALSE    
+
+[X31-14]
+Prioridade? = FALSE    
+
+[X31-15]
+Prioridade? = FALSE    
+
+[X31-16]
+Prioridade? = FALSE    
+
+[GD-ST-ES]
+Prioridade? = FALSE    
+
+[X33-2]
+Prioridade? = FALSE    

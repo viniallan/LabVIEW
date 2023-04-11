@@ -1,0 +1,314 @@
+[SPK-CV-001]
+Prioridade? = TRUE    
+
+[SPK-CV-002]
+Prioridade? = TRUE    
+
+[SPK-CV-003]
+Prioridade? = TRUE    
+
+[SPK-CV-004]
+Prioridade? = TRUE    
+
+[SPK-CV-005]
+Prioridade? = TRUE    
+
+[SPK-CV-006]
+Prioridade? = TRUE    
+
+[SPK-CV-007]
+Prioridade? = TRUE    
+
+[SPK-CV-008]
+Prioridade? = TRUE    
+
+[SPW-CV-001]
+Prioridade? = TRUE    
+
+[SPW-CV-002]
+Prioridade? = TRUE    
+
+[SPW-CV-003]
+Prioridade? = TRUE    
+
+[SPW-CV-004]
+Prioridade? = TRUE    
+
+[SPW-CV-005]
+Prioridade? = TRUE    
+
+[SPW-CV-006]
+Prioridade? = TRUE    
+
+[SPW-CV-007]
+Prioridade? = TRUE    
+
+[SPW-CV-008]
+Prioridade? = TRUE    
+
+[SKM-CV-LAM]
+Prioridade? = TRUE    
+
+[SKM-CV-COR]
+Prioridade? = TRUE    
+
+[SKM-CV-JMP]
+Prioridade? = TRUE    
+
+[SKI-CV-AR]
+Prioridade? = TRUE    
+
+[SKI-CV-KF-ST]
+Prioridade? = TRUE    
+
+[SKI-CV-KF-BY1]
+Prioridade? = TRUE    
+
+[SKI-CV-WF-ST]
+Prioridade? = TRUE    
+
+[SKI-CV-WF-BY1]
+Prioridade? = TRUE    
+
+[SKI-CV-ST]
+Prioridade? = TRUE    
+
+[SKI-CV-BY2]
+Prioridade? = TRUE    
+
+[X31-27]
+Prioridade? = TRUE    
+
+[X31-28]
+Prioridade? = TRUE    
+
+[X31-29]
+Prioridade? = TRUE    
+
+[X31-30]
+Prioridade? = TRUE    
+
+[X31-31]
+Prioridade? = TRUE    
+
+[X31-32]
+Prioridade? = TRUE    
+
+[PID-PC-TQ-ON]
+Prioridade? = TRUE    
+
+[PID-FC-AR-ON]
+Prioridade? = TRUE    
+
+[PID-WF-ON]
+Prioridade? = TRUE    
+
+[PID-KF-ON]
+Prioridade? = TRUE    
+
+[PID-SA-WF-INV]
+Prioridade? = TRUE    
+
+[PID-SA-KF-INV]
+Prioridade? = TRUE    
+
+[PID-SA-AR-COR]
+Prioridade? = TRUE    
+
+[SPK-WR-ON]
+Prioridade? = TRUE    
+
+[SPW-WR-ON]
+Prioridade? = TRUE    
+
+[SPK-WR-OFF]
+Prioridade? = TRUE    
+
+[SPW-WR-OFF]
+Prioridade? = TRUE    
+
+[SKM-PC-TQ]
+Prioridade? = TRUE    
+
+[SKM-FC-AR]
+Prioridade? = TRUE    
+
+[SKM-FC-WF]
+Prioridade? = TRUE    
+
+[SKM-FC-KF]
+Prioridade? = TRUE    
+
+[X33 5]
+Prioridade? = TRUE    
+
+[X33 6]
+Prioridade? = TRUE    
+
+[X33 7]
+Prioridade? = TRUE    
+
+[X33 8]
+Prioridade? = TRUE    
+
+[X33 9]
+Prioridade? = TRUE    
+
+[X33 10]
+Prioridade? = TRUE    
+
+[X33 11]
+Prioridade? = TRUE    
+
+[X33 12]
+Prioridade? = TRUE    
+
+[X33 13]
+Prioridade? = TRUE    
+
+[X33 14]
+Prioridade? = TRUE    
+
+[PID-PC-TQ-SP]
+Prioridade? = TRUE    
+
+[PID-FC-AR-SP]
+Prioridade? = TRUE    
+
+[PID-FC-WF-SP]
+Prioridade? = TRUE    
+
+[PID-FC-KF-SP]
+Prioridade? = TRUE    
+
+[PID-INC-WF-SP]
+Prioridade? = TRUE    
+
+[PID-INC-KF-SP]
+Prioridade? = TRUE    
+
+[SPK-WR-VEL]
+Prioridade? = TRUE    
+
+[SPW-WR-VEL]
+Prioridade? = TRUE    
+
+[SKM-FIC-COR-AR-MAX]
+Prioridade? = TRUE    
+
+[SKM-FIC-COR-AR-MIN]
+Prioridade? = TRUE    
+
+[SKM-FIC-COR-KF-MAX]
+Prioridade? = TRUE    
+
+[SKM-FIC-COR-KF-MIN]
+Prioridade? = TRUE    
+
+[PID-PC-TQ-GP]
+Prioridade? = TRUE    
+
+[PID-PC-TQ-GI]
+Prioridade? = TRUE    
+
+[PID-PC-TQ-GD]
+Prioridade? = TRUE    
+
+[PID-FC-AR-GP]
+Prioridade? = TRUE    
+
+[PID-FC-AR-GI]
+Prioridade? = TRUE    
+
+[PID-FC-AR-GD]
+Prioridade? = TRUE    
+
+[PID-FC-WF-GP]
+Prioridade? = TRUE    
+
+[PID-FC-WF-GI]
+Prioridade? = TRUE    
+
+[PID-FC-WF-GD]
+Prioridade? = TRUE    
+
+[PID-FC-KF-GP]
+Prioridade? = TRUE    
+
+[PID-FC-KF-GI]
+Prioridade? = TRUE    
+
+[PID-FC-KF-GD]
+Prioridade? = TRUE    
+
+[PID-INV-WF-GP]
+Prioridade? = TRUE    
+
+[PID-INV-WF-GI]
+Prioridade? = TRUE    
+
+[PID-INV-WF-GD]
+Prioridade? = TRUE    
+
+[PID-INV-KF-GP]
+Prioridade? = TRUE    
+
+[PID-INV-KF-GI]
+Prioridade? = TRUE    
+
+[PID-INV-KF-GD]
+Prioridade? = TRUE    
+
+[SKS-CV-001]
+Prioridade? = TRUE    
+
+[SKS-CV-002]
+Prioridade? = TRUE    
+
+[SKS-CV-003]
+Prioridade? = TRUE    
+
+[SKS-CV-004]
+Prioridade? = TRUE    
+
+[SKS-CV-005]
+Prioridade? = TRUE    
+
+[SKS-CV-006]
+Prioridade? = TRUE    
+
+[SHD-CV-001]
+Prioridade? = TRUE    
+
+[SHD-CV-002]
+Prioridade? = TRUE    
+
+[SHD-ON-OFF]
+Prioridade? = TRUE    
+
+[X31-10]
+Prioridade? = TRUE    
+
+[X31-11]
+Prioridade? = TRUE    
+
+[X31-12]
+Prioridade? = TRUE    
+
+[X31-13]
+Prioridade? = TRUE    
+
+[X31-14]
+Prioridade? = TRUE    
+
+[X31-15]
+Prioridade? = TRUE    
+
+[X31-16]
+Prioridade? = TRUE    
+
+[GD-ST-ES]
+Prioridade? = TRUE    
+
+[X33-2]
+Prioridade? = TRUE    
