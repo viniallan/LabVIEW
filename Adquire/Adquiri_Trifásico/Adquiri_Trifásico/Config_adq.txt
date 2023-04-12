@@ -1,0 +1,6 @@
+     P1		     P2		     P3		     P4		   Pfundo	Data        	Hora																	
+MIN	MAX	MIN	MAX	MIN	MAX	MIN	MAX	MIN	MAX	dd/mm/aa	hora:min																
+[kPa]	[kPa]	[kPa]	[kPa]	[kPa]	[kPa]	[kPa]	[kPa]	[kPa]	[kPa]																		
+-50	50	-50	50	-50	50	0	50	0	600	27/05/2021	11:04																
+-50	50	-50	50	-50	50	0	50	0	600	04/06/2021	11:41																
+-50	50	-50	50	-50	50	-50	50	0	600	18/06/2021	09:00																

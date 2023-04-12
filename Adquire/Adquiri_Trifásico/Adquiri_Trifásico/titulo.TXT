@@ -1,0 +1,3 @@
+-> Diferenciais de pressão em [kPa]
+-> Leitura dos sensores de impedância em [mA]
+C1M[mA]	C1J[mA]	DP12	C2M[mA]	C2J[mA]	DP23	Pfundo	C3M[mA]	C3J[mA]	DP34	C4M[mA]	C4J[mA]	DP4
