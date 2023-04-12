@@ -1,0 +1,18 @@
+Os dados coletados pela placa da National Instruments e os valores de velocidade vindas pela comunicação UDP são arquivadas na pasta data. O vi PosProcessamento_UDP_NI tem função de juntar os dados dos dois arquivos em um único e arquivar na pasta aquisicao_final. 
+O vi utiliza o txt tempo_inicio, que contém o tempo de início da aquisição da placa NI e da comunicação UDP. Veja que, o vi faz a leitura das duas ultimas linhas do tempo_inicio.txt, que correspondem à última aquisição feita pelo software. Portanto, caso se queira fazer o pós processamento de um conjunto de dados que não seja o último conjunto de dados adquirido, é necessário copiar manualmente o tempo de início para as duas últimas linhas do arquivo.
+
+VIs
+- main_PosProcessamento_UDP_NI: Interface que permite selecionar o arquivo que se quer pos processar.
+- PosProcessamento_UDP_NI: É onde ocorre a manipulação dos arquivos de dados de fato.
+- remove_negative_num: Caso a aquisição UDP inicie antes, pela lógica do programa, alguns dos primeiros valores do vetor de timestamp serão negativos, estes valores são descartados com o objetivo de sincronizar a aquisição NI e UDP.
+- seleciona_tempo_inicio: Percorre por todo o arquivo "tempo_inicio" procurando pelo match do nome do teste. Quando o teste correto é identificado coleta os valores de tempo de inicio e retorna para o VI que o chamou
+- Aquisicao_NI_paralelo: VI responsável por realizar a aquisição em paralelo(ao mesmo tempo que o main adquiri é executado) dos sensores conectados à placa NI.
+- Aquisicao_UDP_paralelo: VI responsável por executar em paralelo o vi de leitura da comunicação UDP
+
+Lógica de Funcionamento do PosProcessamento_UDP_NI
+VI criado para solucionar o problema de sincronia NI-UDP causada pela diferença de frequência de aquisição.
+A aquisição de dados da NI e UDP não iniciam exatamente no mesmo tempo, para contornar este problema é subtraido o vetor de velocidades_timestamp pelo tempo de início da aquisição NI. Desta maneira, o zero do timestamp é o início da aquisição da NI.
+Após esta subtração o primeiro valor lido pela UDP é escrito repetidamente no arquivo final para compensar a diferença do início.
+O próximo conjunto de instruções é repetido até que o número de linhas na matriz final seja o mesmo que o número de linhas aquisitadas pela NI.
+A variável time_NI tem como função simular o timestamp da placa NI, a cada iteração é comparado o valor de time_NI com velocidades_timestamp[j+1]. Caso time_NI seja maior é adicionado o valor de j++.
+Independentemente do resultado da comparação sempre é adicionado +1/3000 ao valor de time_NI e o valor velocidades_UDP[j] é copiado para a matriz final. A ideia é que a cada múltiplo de 1/3000 o valor da velocidade seja repetido 1 vez e isso acontece n1 vezes(com condição de parada se time_NI>valocidades_timestamp[j+1]), se a comparação dê maior o valor de j é acrescido de 1 e o próximo valor de velocidade é repetido n2 vezes
