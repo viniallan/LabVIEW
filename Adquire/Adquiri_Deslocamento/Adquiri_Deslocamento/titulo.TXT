@@ -1,0 +1,1 @@
+C1M[mA]	C1J[mA]	P1[mA]	C2M[mA]	C2J[mA]	P2[mA]	Pfu[mA]	C3M[mA]	C3J[mA]	P3[mA]	C4M[mA]	C4J[mA]	P4[mA]	Vel[m/s]
