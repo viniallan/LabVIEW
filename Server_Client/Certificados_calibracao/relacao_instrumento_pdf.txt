@@ -38,7 +38,7 @@ PDF = "Não Adicionado"
 PDF = "Não Adicionado"
 
 [SPW-PD-P]
-PDF = "Não Adicionado"
+PDF = "BombaW.pdf"
 
 [SPK-PD-P]
 PDF = "Não Adicionado"
@@ -131,7 +131,7 @@ PDF = "Não Adicionado"
 PDF = "Não Adicionado"
 
 [SPW-RD-VEL]
-PDF = "Não Adicionado"
+PDF = "BombaW.pdf"
 
 [SPK-RD-IA]
 PDF = "Não Adicionado"
@@ -290,4 +290,7 @@ PDF = "Não Adicionado"
 PDF = "Não Adicionado"
 
 [X33-2]
+PDF = "Não Adicionado"
+
+[INTERNO_RESERVA]
 PDF = "Não Adicionado"
