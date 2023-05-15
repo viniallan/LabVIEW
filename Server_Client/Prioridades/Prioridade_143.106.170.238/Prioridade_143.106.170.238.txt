@@ -23,7 +23,7 @@ Prioridade? = FALSE
 Prioridade? = FALSE
 
 [SPW-CV-001]
-Prioridade? = TRUE
+Prioridade? = FALSE
 
 [SPW-CV-002]
 Prioridade? = FALSE
@@ -35,16 +35,16 @@ Prioridade? = FALSE
 Prioridade? = FALSE
 
 [SPW-CV-005]
-Prioridade? = TRUE
+Prioridade? = FALSE
 
 [SPW-CV-006]
-Prioridade? = TRUE
+Prioridade? = FALSE
 
 [SPW-CV-007]
-Prioridade? = TRUE
+Prioridade? = FALSE
 
 [SPW-CV-008]
-Prioridade? = TRUE
+Prioridade? = FALSE
 
 [SKM-CV-LAM]
 Prioridade? = FALSE
